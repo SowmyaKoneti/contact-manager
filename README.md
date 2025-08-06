@@ -65,7 +65,7 @@ The UI is split into reusable components like:
 - `ContactList`
 - `AddContactForm`
 
-### ⚖️ Trade-offs and Decisions
+###  Trade-offs and Decisions
 
 1.  Used `lowdb` for quick setup.
 2.  Focused on core functionality over complex styling to keep the UI simple and understandable.
