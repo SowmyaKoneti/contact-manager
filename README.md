@@ -75,4 +75,5 @@ The UI is split into reusable components like:
 
 ## UI Screenshot
 
-![Home](image.png)
+![Home](home.png)
+![Home](search.png)
