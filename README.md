@@ -2,22 +2,20 @@
 
 A simple React + Node.js contact management application that allows users to add, search, and delete contacts.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Frontend: React
 - Backend: Node.js
 - Database: lowdb
 
-## 🚀 Features
+## Features
 
 - Add new contacts (name, email)
 - View and search existing contacts
 - Delete contacts
 - Clean, responsive UI
 
-## 🛠️ Getting Started
-
-### 1. Clone the repo
+## Getting Started
 
 ```bash
 git clone https://github.com/SowmyaKoneti/contact-manager.git
