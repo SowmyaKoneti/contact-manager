@@ -1,10 +1,10 @@
-# 📇 Contact Manager App
+#  Contact Manager App
 
 A simple full-stack contact management application built with **React** and **Node.js**, allowing users to add, search, and delete contacts.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: React
 - **Backend**: Node.js 
@@ -52,11 +52,11 @@ npm run dev
 ```
 
 Visit the app in your browser:  
-👉 [http://localhost:5173](http://localhost:5173)
+ [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🧠 Solution Explanation & Trade-offs
+##  Solution Explanation & Trade-offs
 
 This Contact Manager app uses `fetch()` on the frontend to communicate with a Node.js backend. The backend stores contact data in a local JSON file using **LowDB**.
 
@@ -77,4 +77,4 @@ The UI is split into reusable components like:
 ## UI Screenshot
 
 ![Home](home.png)
-![Home](search.png)
+![search](search.png)
