@@ -1,21 +1,6 @@
 {
   "contacts": [
     {
-      "id": 16,
-      "name": "sowmya",
-      "email": "s@gmail.com"
-    },
-    {
-      "id": 17,
-      "name": "manasa",
-      "email": "manasa@gmail.com"
-    },
-    {
-      "id": 18,
-      "name": "sow",
-      "email": "sowm@gmail.com"
-    },
-    {
       "id": 19,
       "name": "hello",
       "email": "hello@gmail.com"
