@@ -32,6 +32,7 @@ cd contact-manager
 # Install backend dependencies
 cd backend
 npm install
+npm install lowdb
 
 # Install frontend dependencies
 cd ../frontend
